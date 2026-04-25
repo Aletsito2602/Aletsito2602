@@ -18,7 +18,7 @@ Construyo el software que tu negocio necesita.
 
 Hace más de **4 años** que construyo plataformas para founders y equipos que necesitan más que un freelance: necesitan un socio que entienda el negocio, no solo el código.
 
-Trabajé con startups educativas, fintech, fábricas y agencias en **6 países**. Lo que tienen en común mis clientes es que querían lanzar algo bien hecho, rápido, sin sorpresas. Y eso es exactamente lo que entrego.
+Trabajé con startups educativas, fintech, fábricas y agencias en **6 países**. Lo que tienen en común mis clientes es que querían lanzar algo nuevo, que entienda sobre su negocio. Y eso es exactamente lo que hicimos.
 
 <table>
 <tr>
@@ -35,7 +35,7 @@ Trabajé con startups educativas, fintech, fábricas y agencias en **6 países**
 
 | | |
 |---|---|
-| **Desarrollo Web** | Experiencias web rápidas y escalables con las últimas tecnologías. |
+| **Desarrollo Web** | Experiencia en desarrollo web, adaptamos la tecnologia al cliente. |
 | **Plataformas SaaS** | Software como servicio robusto y listo para escalar. |
 | **Sistemas Internos** | Herramientas a medida que optimizan procesos operativos. |
 | **Integración con IA** | Asistentes y automatizaciones inteligentes para tu negocio. |
