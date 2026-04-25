@@ -6,9 +6,9 @@
 Construyo el software que tu negocio necesita.
 
 [![Website](https://img.shields.io/badge/alets.tech-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alets.tech)
-[![Email](https://img.shields.io/badge/aspronetlabs%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aspronetlabs@gmail.com)
+[![Email](https://img.shields.io/badge/aletsdesignn%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aletsdesignn@gmail.com)
 [![Location](https://img.shields.io/badge/Córdoba%2C%20Argentina-1E3A8A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Status](https://img.shields.io/badge/Disponible%20para%20proyectos-10B981?style=for-the-badge)](mailto:aspronetlabs@gmail.com)
+[![Status](https://img.shields.io/badge/Disponible%20para%20proyectos-10B981?style=for-the-badge)](mailto:aletsdesignn@gmail.com)
 
 </div>
 
@@ -115,7 +115,7 @@ Plataforma E-Learning para preparación de Barmitzva con seguimiento individuali
 
 Si tenés un proyecto que querés lanzar **bien hecho, rápido y sin sorpresas**, hablemos.
 
-- **Email:** [aspronetlabs@gmail.com](mailto:aspronetlabs@gmail.com)
+- **Email:** [aletsdesignn@gmail.com](mailto:aletsdesignn@gmail.com)
 - **Web:** [alets.tech](https://alets.tech)
 - **Disponibilidad:** abierto a nuevos proyectos
 
