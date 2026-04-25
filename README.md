@@ -42,29 +42,7 @@ Trabajé con startups educativas, fintech, fábricas y agencias en **6 países**
 
 ---
 
-## Proyectos destacados
-
-### Theory Traders &nbsp;·&nbsp; [theorytraders.com](https://theorytraders.com)
-Plataforma educativa de trading con suscripciones, cursos y comunidad exclusiva.
-**Resultado:** +3.000 alumnos activos · suscripción recurrente automatizada · −80 % en soporte manual.
-`React` `Supabase` `Stripe` `SaaS`
-
-### Diforte Living
-Sistema de gestión para fábrica de sillones que conecta ventas, producción y logística en tiempo real.
-**Resultado:** procesos 5× más rápidos · cero pedidos perdidos · visibilidad total del flujo.
-`React` `Node.js` `Gestión`
-
-### NVU Live
-Plataforma educativa de trading con streaming en vivo de alta calidad para miles de usuarios concurrentes.
-**Resultado:** streaming 24/7 sin caídas · escalado a miles de alumnos.
-`React` `Vimeo` `EdTech`
-
-### Barmitzva Top
-Plataforma E-Learning para preparación de Barmitzva con seguimiento individualizado por profesor.
-**Resultado:** seguimiento 1 a 1 automatizado · contenido multimedia integrado.
-`E-Learning` `EdTech` `Plataforma`
-
-> Más casos en [**alets.tech**](https://alets.tech) — Weeph, Nexfy, Kaapeh, 1House.tv, Chef Pamela Amaro, y más.
+> Casos completos en [**alets.tech**](https://alets.tech) — Theory Traders, Diforte Living, NVU Live, Weeph, Nexfy, Kaapeh, 1House.tv, Chef Pamela Amaro, y más.
 
 ---
 
